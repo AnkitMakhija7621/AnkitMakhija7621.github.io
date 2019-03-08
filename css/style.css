@@ -1,0 +1,16 @@
+body{
+
+    font-family: Roboto;
+}
+.navbarMain{
+    background-color: blue;
+}
+.navbarMain .navbar-nav .nav-link{
+    color:rgba(255,255,255,1);
+}
+.div2 img{
+    width:25vw;
+}
+.div1 .col-4{
+    margin-top: 20vh;
+}
